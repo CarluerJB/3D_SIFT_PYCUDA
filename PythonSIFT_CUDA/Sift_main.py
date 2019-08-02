@@ -1,3 +1,14 @@
+// ===============================
+// AUTHOR     : CARLUER Jean-Baptiste
+// CREATE DATE     : 17/03/19
+// PURPOSE     : Internship at the ETS, optimisation CUDA of the 3D SIFT of Matthew Towes
+// SPECIAL NOTES: 
+// ===============================
+// Change History:
+//                  
+//
+//==================================
+
 import os
 import numpy as np
 import sys
