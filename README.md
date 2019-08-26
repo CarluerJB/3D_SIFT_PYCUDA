@@ -34,6 +34,8 @@ TODO: Need to add fast descriptor computation using BRIEF and 2 other method int
 
 TODO: Need to add best GPU auto selection and option to let user choose GPU card. 
 
+TODO: Finish the Matching algorithm 
+
 ## Credits
 
 Jean-Baptiste CARLUER at École de technologie supérieure ÉTS.
